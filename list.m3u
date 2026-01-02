@@ -1,0 +1,383 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Anime" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" tvc-guide-title="Animax" tvg-country="IN", Animax
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-name="Maxanime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Max_Anime_Logo.png" tvc-guide-title="Animax", Maxanime
+https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",502 Pluto TV Anime
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1398/lg/ab8828/LG-Logo-PNG-100x100_v1.png",359 ANIME x HIDIVE
+https://wurlrainbowmedia.global.transmit.live/hls/68c497de18e2a74e37774fb3/v1/amc_anime_x_hidive_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1398&wurl_name=ANIMExHIDIVE&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/logo_1748797351624.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",362 Pluto TV Anime
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="-",Adult Swim
+http://200.125.170.122:8000/play/a0ct/index.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://i.postimg.cc/T3tbxc7X/anmv.png",Anime Vision
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-name="Anime Vision Classics" tvg-logo="https://i.postimg.cc/VkKtwFGL/anmvc.png",Anime Vision Classics
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-name="Aniplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/1200px-Aniplus_logo.svg.png",Aniplus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1467/lg/c26078/LG-Logo-PNG-100x100_v1.png",358 Crunchyroll
+https://wurlgameshownetwork.global.transmit.live/hls/68d1741991b992ec0d46bfea/v1/gsn_crunchyroll_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1467&wurl_name=Crunchyroll&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]
+
+#EXTINF:-1 group-title="MX | Azteca" tvg-name="Azteca Internacional",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 group-title="MX | Azteca" tvg-name="AZ Corazon" tvg-logo="https://masmediatv.es/images/2020/canales-azcorazon.png",AZ Corazon
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+
+#EXTINF:-1 group-title="MX | TV Abierta" tvg-name="Canal Once",Canal Once
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+
+#EXTINF:-1 group-title="MX | TV Abierta" tvg-name="Once.3" tvg-logo="https://canalonce.mx/REST/data/images/logoonce3-transparent.png",Once.3
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?
+
+#EXTINF:-1 group-title="MX | TV Abierta" tvg-name="ADN40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/ADN40_2022.svg/2560px-ADN40_2022.svg.png",ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 group-title="LATAM" tvg-name="Telemundo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true",Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 group-title="LATAM" tvg-name="Telemundo MX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/telemundo-international-ar.png?raw=true",Telemundo Internacional
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-name="NickToons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/nick-toons-rs.png?raw=true",NickToons
+http://143.244.60.30/NICKTOONS/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-name="Nick Pluto TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/pluto-tv-nick-vod-us.png?raw=true",Nick Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&profilesFromStream=true&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291
+
+#EXTINF:-1 group-title="Kids" tvg-name="Nick@nite" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-name="Nickelodeon" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true",Nickelodeon
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="AMC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/amc-es.png?raw=true",AMC
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Stories by AMC",Stories by AMC
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="USA Network",USA Network
+http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="USA Network LatAm" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/usa-br.png?raw=true",USA Network LatAm
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-name="USA Today" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/usa-today-vod.png?raw=true",USA Today
+https://usatodaynews-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-name="NBA TV (GeoUSA)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/nba-tv-rs.png?raw=true",NBA TV
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-name="FOX Sports",FOX Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
+
+#EXTINF:-1 group-title="Sports" tvg-name="FOX Sports ESP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-us.png?raw=true",FOX Sports ESP
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-name="CBS Sports HQ",CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+
+#EXTINF:-1 group-title="Sports" tvg-name="CBS Sports Network",CBS Sports Network
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-name="ABC 7 Los Angeles" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-kgo-us.png?raw=true",ABC 7 Los Angeles
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="BBC America" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="SYFY",SYFY
+https://fl1.moveonjoy.com/SYFY/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="ION TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true",ION TV
+https://fl1.moveonjoy.com/ION_TV/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="ION PLus" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-plus-us.png?raw=true",ION PLus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="ION Mystery" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-mystery-us.png?raw=true",ION Mystery
+https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="FX East",FX East
+https://fl1.moveonjoy.com/FX/index.m3u8
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="FXX",FXX
+https://fl1.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="E" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/e-entertainment-rs.png?raw=true",E!
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="A&E Crime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/crime-360-vod.png?raw=true",A&E Crime 360
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6000a5a9e767980007b497ca/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e25-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cf4fab4-d242-4d08-9427-74ba9cdd33c5
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Bravo Plus 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/bravo-plus-nz.png?raw=true",Bravo Plus 1
+https://i.mjh.nz/.r/bravo-plus1.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Bravo",Bravo
+https://fl1.moveonjoy.com/BRAVO/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Studio Universal LatAm" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/studio-universal-lam.png?raw=true",Studio Universal LatAm
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Universal Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/universal-tv-br.png?raw=true",Universal Action
+https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Universal Crime",Universal Crime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549341853fc9700083901ac/master.m3u8?
+appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc200-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f8ea05b6-c631-4463-8491-a4394e906d3c
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Showtime 2",Showtime 2
+https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Showtime Next",Showtime Next
+https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Showtime Women" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true",Showtime Women
+https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Warner Bros Sweet Escapes" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/F450C526-1D78-4335-92AD-ED0C40DDDD17/3-1x1.png/900",Warner Bros Sweet Escapes
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7fa045c3d0008514ca7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1027-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ef9213e0-68a9-467b-a8ec-30b182841c0b
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="CW" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true",CW
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Starz",Starz
+https://fl1.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Starz Encore",Starz Encore
+https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Hallmark" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png?raw=true",Hallmark
+https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Hallmark en Español" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/hallmarkenespanol_dark_logo_750x500.png",Hallmark en Español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Hallmark Movies & More" tvg-logo="https://www.plex.tv/wp-content/uploads/2024/11/HMMore_Logo.png",Hallmark Movies & More
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Hallmark Mystery" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Mystery
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="IFC",IFC
+https://tvpass.org/live/IFCEast/hd
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="BET",BET
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Lifetime",Lifetime
+https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Lifetime Movies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/lifetime-movie-network-au.png?raw=true",Lifetime Movie Network
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-name="National Geographic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/national-geographic-hd-es.png?raw=true",National Geographic
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-name="National Geographic LatAm" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/national-geographic-es.png?raw=true",National Geographic LatAm
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-name="National Geographic Wild",National Geographic Wild
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-name="History" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true",History
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-name="Beyond History",Beyond History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb9844db5a4a0007ebc2a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a42-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d3e7f565-b65d-418f-9f3a-1da5e2c255f3
+
+#EXTINF:-1 group-title="Documentary" tvg-name="History 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/history-channel-2-rs.png?raw=true",History 2
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-name="Military History" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/military-history-us.png?raw=true",Military History
+https://fl1.moveonjoy.com/Military_History/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Oxygen True Crime",Oxygen True Crime
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="MGM+",MGM+
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-name="Vsin" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vsin-us.png?raw=true",Vsin
+https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Cine Sony ESP" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/409efa6e-c69a-4971-ac4e-a2a76dcd02e5/dekdgju-8ee8a94a-058b-4473-8ea6-255d9fef9ba6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi80MDllZmE2ZS1jNjlhLTQ5NzEtYWM0ZS1hMmE3NmRjZDAyZTUvZGVrZGdqdS04ZWU4YTk0YS0wNThiLTQ0NzMtOGVhNi0yNTVkOWZlZjliYTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SKTIeunqGWP7gX4BC1_8naUyDBtH3u3XGmhooR0sLko", Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Sony Channel ESP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/sony-channel-br.png?raw=true",Sony Channel ESP
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Cinecanal",Cinecanal
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Sundance TV",Sundance TV
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-name="DW ESP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/dw-int.png?raw=true",DW ESP
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="Cinemax MX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/cinemax-br.png?raw=true",Cinemax MX
+https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="Movies & Series" tvg-name="HBO+",HBO+
+https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="Discovery Turbo",Discovery Turbo
+https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-name="Discovery",Discovery
+https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-name="H&H ESP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true",H&H ESP
+http://181.114.57.246:4000/play/qUqJGdarkz5aTfGt/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-name="NATGEO ESP" tvg-logo="https://i0.wp.com/blog.education.nationalgeographic.org/wp-content/uploads/2024/02/cropped-bf_ng_icon_favicon_rgb.png?ssl=1",NATGEO ESP
+https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-name="AXN",AXN
+https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1zn8lvr9xwhp4.cloudfront.net/LG_Logo_700x200_HitSitcoms.png",506 Hit Sitcoms
+https://amg00136-wbd-amg00136c46-lg-us-5707.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-hitsitcomsall-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1228/lg/4d8396/LG-Logo-PNG-100x100_v1.png",838 AMC en Español
+https://wurlrainbowmedia.global.transmit.live/hls/68c87c330d9e3b5fb3957d88/playlist.m3u8?wurl_channel=1228&wurl_name=AMCenEspanol&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 group-title="-",TOONCAST
+http://200.125.170.122:8000/play/a09l/index.m3u8
+
+#EXTINF:-1 group-title="-" tvg-country="MX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/cartoon-network-in.png?raw=true",CARTOON NETWORK
+http://200.125.170.122:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 group-title="-" tvg-country="MX",A&E
+http://200.125.170.122:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="-" tvg-country="MX",AMC
+http://200.125.170.122:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="-" tvg-country="MX",AXN
+http://200.125.170.122:8000/play/a05s/index.m3u8
+
+
+#EXTINF:-1 group-title="-" tvg-country="MX",Animal Planet
+http://200.125.170.122:8000/play/a02g/index.m3u8
+
+#EXTINF:-1 group-title="-" tvg-country="MX",CINECANAL HD
+http://200.125.170.122:8000/play/a0a3/index.m3u8
+
+#EXTINF:-1 group-title="-" tvg-country="MX",Discovery Channel
+http://200.125.170.122:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="-",Discovery ID HD
+http://200.125.170.122:8000/play/a066/index.m3u8
+
+#EXTINF:-1 group-title="-",Discovery Science
+http://200.125.170.122:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Turbo
+http://200.125.170.122:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="-",Discovery World HD
+http://200.125.170.122:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="-",Disney
+http://200.125.170.122:8000/play/a057/index.m3u8
+
+#EXTINF:-1 group-title="-" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/e-entertainment-rs.png?raw=true",E! Entertairment HD
+http://200.125.170.122:8000/play/a02x/index.m3u8
+
+#EXTINF:-1 group-title="-",FX
+http://200.125.170.122:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="-",Film & arts HD
+http://200.125.170.122:8000/play/a02y/index.m3u8
+
+#EXTINF:-1 group-title="-",Golden
+http://200.125.170.122:8000/play/a04a/index.m3u8
+
+#EXTINF:-1 group-title="-" v,Golden Premier 2
+http://200.125.170.122:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title="-",Golden Premier
+http://200.125.170.122:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 group-title="-" tvg-country="MX",HBO Family
+http://200.125.170.122:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="-",HBO
+http://200.125.170.122:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="-",HBO Plus
+http://200.125.170.122:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="-",HBO XTREME
+http://200.125.170.122:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="-",HBO2
+http://200.125.170.122:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 group-title="-",History HD
+http://200.125.170.122:8000/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="-",Home & Health HD
+http://200.125.170.122:8000/play/a04j/index.m3u8
+
+#EXTINF:-1 group-title="-",LIFE TIME
+http://200.125.170.122:8000/play/a0d0/index.m3u8
+
+#EXTINF:-1 group-title="-",Nat Geo HD
+http://200.125.170.122:8000/play/a05z/index.m3u8
+
+#EXTINF:-1 group-title="-" tvg-country="MX",Nickelodeon
+http://200.125.170.122:8000/play/a04g/index.m3u8
+
+#EXTINF:-1 group-title="-",Paramount HD
+http://200.125.170.122:8000/play/a060/index.m3u8
+
+#EXTINF:-1 group-title="-",SONY HD
+http://200.125.170.122:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="-",SPACE HD
+http://200.125.170.122:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="-",STAR CHANNEL HD
+http://200.125.170.122:8000/play/a0a0/index.m3u8
+
+#EXTINF:-1 group-title="-",TCM
+http://200.125.170.122:8000/play/a04b/index.m3u8
+
+#EXTINF:-1 group-title="-",TLC
+http://200.125.170.122:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="-",TNT HD
+http://200.125.170.122:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="-",TNT Novelas
+http://200.125.170.122:8000/play/a0cy/index.m3u8
+#EXTINF:-1 group-title="-",TNT Series HD
+http://200.125.170.122:8000/play/a061/index.m3u8
+
+#EXTINF:-1 group-title="-",Telemundo HD
+http://200.125.170.122:8000/play/a031/index.m3u8
+
+#EXTINF:-1 group-title="-",UNIVERSAL CINEMA ESTE HD
+http://200.125.170.122:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL COMEDY HD
+http://200.125.170.122:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CRIME HD
+http://200.125.170.122:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE HD
+http://200.125.170.122:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE O HD
+http://200.125.170.122:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL REALITY HD
+http://200.125.170.122:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="-",Universal
+http://200.125.170.122:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="-",Univision HD
+http://200.125.170.122:8000/play/a065/index.m3u8
+
+#EXTINF:-1 group-title="-",WARNER HD
+http://200.125.170.122:8000/play/a0a1/index.m3u8
